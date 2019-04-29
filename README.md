@@ -32,6 +32,10 @@ vscode编辑器的个人设置
 
 - 函数注释辅助：vs docBlockr
 
+  > 注：vs docBlockr 插件在win平台下可能不会生效，在mac上工作正常。这可能与平台以及nodejs的版本有关。
+  >
+  > win平台建议使用 vscode-fileheader 插件来代替。
+
 
 ### 我的配置项（JSON格式）
 
